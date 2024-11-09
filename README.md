@@ -5,7 +5,7 @@ I will be recalling and improving upon my knowledge of different steps beginning
 
 Here is the Roadmap: 
 ## Basic Structure (HTML, CSS, JavaScript)
-Start with a basic portfolio website with sections like "About Me," "Projects," and "Contact."
+Start with a website that has sections based on the pupose behind it. 
 
 ## Frontend Framework (React)
 Convert your site into a React application.
