@@ -7,6 +7,8 @@ body {
     overflow-x: hidden;
 }
 
+/* header */
+
 header {
     display: flex;
     flex-direction: row;
@@ -38,6 +40,10 @@ header {
 #linkContainer a:active {
     color:rgb(107, 107, 107);
 }
-main img {
-    width: 100px;
+
+/* main */
+
+#inviteBox {
+    border:1px solid white;
+    display:grid;
 }
